@@ -5,10 +5,10 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 # What i've practice building this proyect?
-  -I keep my Vanilla Js skill dust free
-  -Keep the code of HTML simple
-  -Make more comments about the process.
-  -Make more comments on the code where i had the most difficulty
+  - I keep my Vanilla Js skill dust free
+  - Keep the code of HTML simple
+  - Make more comments about the process.
+  - Make more comments on the code where i had the most difficulty
 
 
 # Frontend Mentor - Tip calculator app
